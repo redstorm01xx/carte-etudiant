@@ -15,7 +15,7 @@ export default function App() {
 
       <View style={styles.bodyC}>
         <Image
-          source={{ uri: 'https://randomuser.me/api/portraits/men/32.jpg' }}
+          source={{ uri: 'https://randomuser.me/api/portraits/men/31.jpg' }}
           style={styles.profileImg}
         />
         <View style={styles.textC}>
