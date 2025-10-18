@@ -1,0 +1,32 @@
+{
+  "name": "MonApp",
+  "version": "1.0.0",
+  "description": "A React Native application that displays user information with an image background.",
+  "main": "App.js",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "17.0.2",
+    "react-native": "0.64.2"
+  },
+  "devDependencies": {
+    "jest": "27.0.6",
+    "babel-jest": "27.0.6",
+    "babel-preset-react-native": "4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/MonApp.git"
+  },
+  "keywords": [
+    "react-native",
+    "mobile",
+    "application"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
